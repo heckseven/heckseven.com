@@ -1,0 +1,9 @@
+<head>
+	<title>Welcome to heck!</title>
+	<link rel="stylesheet" href="/static/css/styles.css">
+	{% if accent %}
+		<style>
+			:root { --color-accent: {{ accent }}; }
+		</style>
+	{% endif %}
+</head>
