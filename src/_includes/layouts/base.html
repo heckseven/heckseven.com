@@ -3,7 +3,11 @@
 	{% include "components/meta.html" %}
 	<body>
 		{% include "components/header.html" %}
-		<main>{{ content }}</main>
+		{% if tags %}
+			<main class="{{ tags }}">{{ content }}</main>
+		{% else %}
+			<main>{{ content }}</main>
+		{% endif %}
 		{% include "components/footer.html" %}
 	</body>
 </html>

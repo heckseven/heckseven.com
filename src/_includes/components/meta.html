@@ -1,5 +1,10 @@
 <head>
-	<title>Welcome to heck!</title>
+	{% if title %}
+		<title>heckin {{ title }}</title>
+	{% else %}
+		<title>heck yeah</title>
+	{% endif %}
+	<link rel="stylesheet" href="/static/css/styles.css">
 	<link rel="stylesheet" href="/static/css/styles.css">
 	{% if accent %}
 		<style>
