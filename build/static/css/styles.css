@@ -67,7 +67,8 @@ ul {
 	padding: 0;
 }
 
-code.language-heck {
+.language-heck,
+.ascii-art {
 	color: var( --color-accent );
 }
 

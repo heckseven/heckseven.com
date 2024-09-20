@@ -3,7 +3,27 @@ layout: layouts/base.html
 accent: "#0DC45C"
 ---
 
-<pre class="language-heck" aria-hidden="true">
+
+```heck {aria-hidden="true"}
+                          ;                           
+                          ED.                   :     
+                 :        E#Wi                 t#,    
+                 Ef       E###G.       t      ;##W.   
+             ..  E#t      E#fD#W;      Ej    :#L:WE   
+            ;W,  E#t      E#t t##L     E#,  .KG  ,#D  
+           j##,  E#t      E#t  .E#K,   E#t  EE    ;#f 
+          G###,  E#t fi   E#t    j##f  E#t f#.     t#i
+        :E####,  E#t L#j  E#t    :E#K: E#t :#G     GK 
+       ;W#DG##,  E#t L#L  E#t   t##L   E#t  ;#L   LW. 
+      j###DW##,  E#tf#E:  E#t .D#W;    E#t   t#f f#:  
+     G##i,,G##,  E###f    E#tiW#G.     E#t    f#D#;   
+   :K#K:   L##,  E#K,     E#K##i       E#t     G#t    
+  ;##D.    L##,  EL       E##D.        E#t      t     
+  ,,,      .,,   :        E#t          ,;.            
+                          L:
+```
+
+<pre class="ascii-art" aria-hidden="true">
                           ;                           
                           ED.                   :     
                  :        E#Wi                 t#,    
