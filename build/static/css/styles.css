@@ -52,6 +52,7 @@ body {
 	font-family: var( --font-family-mono );
 	font-size: var( --font-size );
 	line-height: 1.4;
+	padding: var( --unit-1 );
 }
 
 a {
@@ -106,6 +107,12 @@ ul {
 	display: block;
 	margin: 0 0 var( --unit-8 );
 	text-align: center;
+}
+
+@media ( max-width: 480px ) {
+	.language-ascii {
+		font-size: .5rem;
+	}
 }
 
 .screen-reader:not(:focus):not(:active) {
@@ -211,6 +218,10 @@ footer {
 	position: sticky;
 	text-align: center;
 	top: 100vh;
+}
+
+footer p {
+	margin: .5rem;
 }
 
 @media ( min-width: 480px ) {

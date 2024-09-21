@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.html
-title: zine
-tags: default
+title: zines
+tags: ["zine"," default"]
 accent: "#FF6161"
 ---
 
@@ -17,4 +17,7 @@ accent: "#FF6161"
 ░▒▓████████▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ 
 ```
 
-[issue_01](001/README)
+- [003.md](003/README) synth destroy, ai, second mind
+- [002.md](002/README) dotfiles, systemd, poetry
+- [001.md](001/README) rebase, 11ty, button
+

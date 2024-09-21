@@ -19,6 +19,8 @@ accent: "#FF6161"
      \__\/         \__\/         \__\/         \__\|
 ```
 
+![a rather confused heckseven standing in front of poorly-crafted synthesizers](/static/images/clueless.jpg)
+
 ## DIY - synth - drum - evil eye - mayhem
 
 heckseven brings the good oscillations to the party… as long as the party is online. (these synths are as heavy as they look)
