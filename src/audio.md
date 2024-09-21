@@ -26,7 +26,7 @@ accent: "#0DC45C"
                           L:                          
 ```
 
-![image](/static/images/clueless.jpg)
+![a rather confused heckseven standing in front of poorly-crafted synthesizers](/static/images/clueless.jpg)
 
 all the good stuff is on [twitch](https://www.twitch.tv/heckseven) or [youtube](https://www.youtube.com/heckseven)
 
