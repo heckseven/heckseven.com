@@ -1,0 +1,32 @@
+:root {
+	--font-family-sans: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	--font-family-mono: 'ui-monospace', Menlo, Monaco, 'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro', 'Droid Sans Mono', 'Courier New', monospace;
+	--font-size: 0.75rem; /* 12px */
+
+	--color-text: #fff;
+	--color-background: #000;
+	--color-accent: #ffff90;
+
+	--unit-base: .5rem; /* 8px */
+	--unit-1: var( --unit-base );
+	--unit-2: calc( 2 * var( --unit-base ) );	/* 16px */
+	--unit-3: calc( 3 * var( --unit-base ) );	/* 24px */
+	--unit-4: calc( 4 * var( --unit-base ) );	/* 32px */
+	--unit-5: calc( 5 * var( --unit-base ) );	/* 40px */
+	--unit-6: calc( 6 * var( --unit-base ) );	/* 48px */
+	--unit-7: calc( 7 * var( --unit-base ) );	/* 56px */
+	--unit-8: calc( 8 * var( --unit-base ) );	/* 64px */
+	--unit-9: calc( 9 * var( --unit-base ) );	/* 72px */
+	--unit-10: calc( 10 * var( --unit-base ) );	/* 80px */
+	--unit-11: calc( 11 * var( --unit-base ) );	/* 88px */
+	--unit-12: calc( 12 * var( --unit-base ) );	/* 96px */
+	--unit-13: calc( 13 * var( --unit-base ) );	/* 104px */
+	--unit-14: calc( 14 * var( --unit-base ) );	/* 112px */
+	--unit-15: calc( 15 * var( --unit-base ) );	/* 120px */
+	--unit-16: calc( 16 * var( --unit-base ) );	/* 128px */
+	--unit-17: calc( 17 * var( --unit-base ) );	/* 136px */
+	--unit-18: calc( 18 * var( --unit-base ) );	/* 144px */
+	--unit-19: calc( 19 * var( --unit-base ) );	/* 152px */
+	--unit-20: calc( 20 * var( --unit-base ) );	/* 160px */
+}
+

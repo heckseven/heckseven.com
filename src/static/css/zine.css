@@ -1,3 +1,10 @@
-ul li:before {
+main {
+	border: 1px solid var( --color-text );
+	margin: var( --unit-1 ) auto;
+	width: 80em;
+	padding: var( --unit-2 );
+}
+
+main li:before {
 	content: "- "
 }

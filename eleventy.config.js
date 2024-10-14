@@ -32,7 +32,7 @@ module.exports = function (eleventyConfig) {
         defaultAttributes: {
             loading: "lazy",
             decoding: "async",
-            sizes: "100vw",
+            sizes: "440px",
         },
     });
 
@@ -42,6 +42,7 @@ module.exports = function (eleventyConfig) {
         // Templates:
         "html",
         "md",
+        "njk",
     ]);
 
     return {

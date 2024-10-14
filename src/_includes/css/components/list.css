@@ -1,0 +1,46 @@
+/* .list */
+.list {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.list .li {
+	margin-bottom: .5rem;
+}
+
+@media ( min-width: 782px ) {
+	.list li {
+		margin-bottom: 0;
+	}
+}
+
+@media ( min-width: 782px ){
+	.flist {
+		display: flex;
+	}
+}
+
+.list.horizontal {
+	display: flex;
+	margin: 0 auto;
+	gap: 1.5rem;
+}
+
+.list.centered {
+	justify-content: center;
+	text-align: center;
+}
+
+/* home page nav */
+.list.pkg {
+	counter-reset: pkg -1;
+	list-style-position: inside;
+}
+
+.list.pkg li {
+	counter-increment: pkg;
+}
+
+.list.pkg li::marker {
+	content: "pkg" counter(pkg) "_";
+}

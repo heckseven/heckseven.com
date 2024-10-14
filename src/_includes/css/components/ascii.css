@@ -1,0 +1,14 @@
+/* styles ascii pre block */
+
+.language-ascii {
+	color: var( --color-accent );
+	display: block;
+	margin: 0 0 var( --unit-8 );
+	text-align: center;
+}
+
+@media ( max-width: 480px ) {
+	.language-ascii {
+		font-size: .5rem;
+	}
+}

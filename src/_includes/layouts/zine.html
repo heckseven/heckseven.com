@@ -1,8 +1,13 @@
 ---
 layout: layouts/base.html
+tags: ["zine"]
 ---
 
 {% if issue %}
-	<div><a href="../README">issue_{{ issue }}</a></div>
+	<div><a href="/zine">more issues</a></div>
+<div><a href="../README"><span class="screen-reader">go back to</span><span aria-hidden="true">&lt;&lt;</span> {{ issue }}.md</a></div>
+{% endif %}
+{% if date %}
+	<div>{{ date }}</div>
 {% endif %}
 {{ content }}
