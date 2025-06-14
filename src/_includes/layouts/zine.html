@@ -8,14 +8,15 @@ tags: ["zine"]
 {% else %}
 	<div><a href="/zine"><span class="screen-reader">check out</span><span aria-hidden="true">&lt;&lt;</span> more human slop</a></div>
 {% endif %}
-{% if date %}
-	<div>{{ date }}</div>
-{% endif %}
 {{ content }}
+
+{% if date %}
+	<p>CREATED {{ date }}</p>
+{% endif %}
 
 <div class="PS1"><span aria-hidden="true">
 	0x07 
 	<a href="/">~</a>/<a href="/zine">zine</a>{% if issue %}/<a href="../README">{{ issue }}</a>{% endif %}
-	&#x1F47F; <blink>&#9608;</blink>
+	😈&#xFE0E;
 	</span>
 </div>

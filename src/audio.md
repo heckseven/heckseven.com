@@ -5,7 +5,7 @@ tags: default
 accent: "#0DC45C"
 ---
 
-# audio{.screen-reader}
+# audio {.screen-reader}
 
 ```ascii {aria-hidden="true"}
                           ;                           

@@ -5,10 +5,29 @@ main {
 	padding: var( --unit-2 );
 }
 
-main li:before {
-	content: "- "
+ol {
+	padding: 0 0 0 4ch;
+}
+
+ul {
+	padding: 0 0 0 2ch;
+}
+
+
+li::marker {
+	display: block;
+}
+
+ul li {
+	list-style-type: "- ";
+}
+
+li ol,
+li ul {
+	padding-left: 2ch;
 }
 
 .PS1 {
 	font-weight: bold
 }
+
