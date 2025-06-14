@@ -49,7 +49,8 @@ Digging through boxes, we surfaced a few old laptops and tablets long forgotten.
 **Contents:**
 
 * [Surface Pro 2](#surface)
-* [2016 Macbook Pro 13](#mbp)
+* [2016 Macbook Pro 13](#heckintosh)
+* [derelict devices](#derelict)
 
 ## Surface Pro 2 -> Samba server {#surface}
 
@@ -91,7 +92,7 @@ i went through (roughly) the steps below to turn it into a little file sharing s
     * handy for remote updates
 8. party
 
-## 2016 Macbook Pro 13 {#mbp}
+## 2016 Macbook Pro 13 {#heckintosh}
 
 this one was pretty far gone. can't even update or make MacOS install media without doing a bit of hacking. decided to try it with Linux. i don't really know what to do with this one yet. anyway, here's where I'm at with it.
 
@@ -119,5 +120,12 @@ this one was pretty far gone. can't even update or make MacOS install media with
 3. fix for keyboard lid (kinda)
     * `sudo nano /etc/systemd/logind.conf`
     * change lid behavior to never sleep (your call, but I went with lock)
+4. now what?
 
+## derelict devices {#derelict}
 
+a list of devices i have not brought back yet. ideas are welcome
+
+* Dell XPS 13 - screen busted, has trouble booting
+* Dell G7 - not in bad shape, but small primary hard drive and Nvidia GPU
+* old apple TV - probably a paperweight, but open to ideas
