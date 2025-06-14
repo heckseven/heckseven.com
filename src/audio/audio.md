@@ -33,4 +33,4 @@ all the good stuff is on [twitch](https://www.twitch.tv/heckseven) or [youtube](
 
 if you want to send some $$ my way, you can donate via [bandcamp](https://heckseven.bandcamp.com/) or [ko-fi](https://ko-fi.com/heckseven) >3
 
-the best way to contact me is via [mastodon](https://defcon.social/@heckseven){aria-hidden="true"} or on the [Earth Modular Society](https://earthmodularsociety.com/) discord.
+the best way to contact me is via [mastodon](https://defcon.social/@heckseven) or on the [Earth Modular Society](https://earthmodularsociety.com/) discord.
