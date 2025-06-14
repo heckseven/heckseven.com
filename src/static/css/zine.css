@@ -5,17 +5,16 @@ main {
 	padding: var( --unit-2 );
 }
 
+.language-ascii {
+	margin: var( --unit-8 ) 0;
+}
+
 ol {
 	padding: 0 0 0 4ch;
 }
 
 ul {
 	padding: 0 0 0 2ch;
-}
-
-
-li::marker {
-	display: block;
 }
 
 ul li {
