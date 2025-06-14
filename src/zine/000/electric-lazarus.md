@@ -1,5 +1,5 @@
 ---
-issue: "001"
+issue: "000"
 date: "2025-06-13"
 layout: layouts/zine.html
 accent: "#FF6161"

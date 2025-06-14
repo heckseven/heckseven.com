@@ -4,7 +4,7 @@ tags: ["zine"]
 ---
 
 {% if issue %}
-	<div><a href="../README"><span class="screen-reader">go back to</span><span aria-hidden="true">&lt;&lt;</span> {{ issue }}.md</a></div>
+	<div><a href="../"><span class="screen-reader">go back to</span><span aria-hidden="true">&lt;&lt;</span> {{ issue }}.md</a></div>
 {% else %}
 	<div><a href="/zine"><span class="screen-reader">check out</span><span aria-hidden="true">&lt;&lt;</span> more human slop</a></div>
 {% endif %}
@@ -16,7 +16,7 @@ tags: ["zine"]
 
 <div class="PS1"><span aria-hidden="true">
 	0x07 
-	<a href="/">~</a>/<a href="/zine">zine</a>{% if issue %}/<a href="../README">{{ issue }}</a>{% endif %}
+	<a href="/">~</a>/<a href="/zine">zine</a>{% if issue %}/<a href="../">{{ issue }}</a>{% endif %}
 	😈&#xFE0E;
 	</span>
 </div>
