@@ -8,3 +8,7 @@ main {
 main li:before {
 	content: "- "
 }
+
+.PS1 {
+	font-weight: bold
+}

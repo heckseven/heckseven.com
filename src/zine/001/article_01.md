@@ -1,7 +1,7 @@
 ---
-layout: layouts/zine.html
-date: "2024-03-02"
 issue: "001"
+date: "2024-03-02"
+layout: layouts/zine.html
 ---
 
 # rando heading
