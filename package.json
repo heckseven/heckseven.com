@@ -4,9 +4,6 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "//": "This weird invocation of eleventy is due to https://github.com/11ty/eleventy/issues/3353",
-    "build": "tsx node_modules/@11ty/eleventy/cmd.js --config=eleventy.config.ts",
-    "serve": "tsx node_modules/@11ty/eleventy/cmd.js --config=eleventy.config.ts --serve",
     "lint:eslint": "eslint eleventy.config.ts src",
     "lint:types": "tsc -p tsconfig.json",
     "lint:prettier": "prettier eleventy.config.ts src scripts --check",
@@ -26,6 +23,7 @@
     "@types/eslint__js": "^8.42.3",
     "eslint": "^9.10.0",
     "eslint-config-prettier": "^9.1.0",
-    "prettier": "^3.3.3"
+    "prettier": "^3.3.3",
+    "tsx": "^4.20.3"
   }
 }
