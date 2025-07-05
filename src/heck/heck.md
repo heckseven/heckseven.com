@@ -19,7 +19,7 @@ accent: "#FF6161"
      \__\/         \__\/         \__\/         \__\|
 ```
 
-![a rather confused heckseven standing in front of poorly-crafted synthesizers](/static/images/clueless.jpg)
+![a rather confused heckseven standing in front of poorly-crafted synthesizers](./clueless.jpg)
 
 ## DIY - synth - drum - evil eye - mayhem
 

@@ -1,0 +1,8 @@
+/* styles marquee block */
+
+.marquee {
+	background: var( --color-accent );
+	color: var( --color-background );
+	text-align: center;
+}
+
