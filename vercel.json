@@ -7,7 +7,9 @@
 			"has": [
 				{
 					"type": "host",
-					"value": "0x07.wtf"
+					"value": {
+						re: "0x07.wtf"
+					}
 				}
 			],
 			"destination": "https://heckseven.com/zine/001/DEF-CON-33/"
