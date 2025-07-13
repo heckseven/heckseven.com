@@ -1,5 +1,11 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
-	"trailingSlash": true
+	"trailingSlash": true,
+	"redirects": [
+		{
+			"source": "https://0x07.wtf/:path*",
+			"destination": "https://heckseven.com/zine/001/DEF-CON-33/",
+		}
+	]
 }
 
