@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.html
-title: choose youru poison
+title: choose your poison
 tags: default
 accent: "#2EFF88"
 ---
