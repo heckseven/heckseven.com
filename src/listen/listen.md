@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.html
-title: listen
+title: choose youru poison
 tags: default
-accent: "#FF6161"
+accent: "#2EFF88"
 ---
 
 # choose your poison {.screen-reader}
