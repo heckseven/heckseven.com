@@ -3,13 +3,15 @@
 	"trailingSlash": true,
 	"redirects": [
 		{
-			"source": "https://0x07.wtf/:path*",
+			"source": "/(.*)",
+			"has": [
+				{
+					"type": "host",
+					"value": "0x07.wtf"
+				}
+			],
 			"destination": "https://heckseven.com/zine/001/DEF-CON-33/"
 		},
-		{
-			"source": "https://www.0x07.wtf/:path*",
-			"destination": "https://heckseven.com/zine/001/DEF-CON-33/"
-		}
 	]
 }
 
