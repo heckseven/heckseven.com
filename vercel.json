@@ -8,7 +8,7 @@
 				{
 					"type": "host",
 					"value": {
-						re: "0x07.wtf"
+						"re": "0x07.wtf"
 					}
 				}
 			],
