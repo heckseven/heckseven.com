@@ -1,5 +1,5 @@
 ---
-issue: "000"
+issue: "001"
 layout: layouts/zine.html
 accent: "#0DC45C"
 ---
