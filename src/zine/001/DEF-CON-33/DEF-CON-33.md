@@ -2,6 +2,7 @@
 issue: "001"
 layout: layouts/zine.html
 accent: "#0DC45C"
+shareimage: "DEF-CON-33.png"
 ---
 
 # DEF CON 33 {.screen-reader}
