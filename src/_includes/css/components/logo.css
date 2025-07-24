@@ -1,7 +1,7 @@
 /* .logo */
 .logo_wrapper {
 	display: block;
-	margin: var( --unit-15 ) auto var( --unit-8 );
+	margin: var(--unit-15) auto var(--unit-8);
 	width: fit-content;
 }
 
@@ -21,13 +21,15 @@
 
 .logo_wrapper:focus-visible {
 	background-color: unset;
-	outline-offset: var( --unit-1 );
+	outline-offset: var(--unit-1);
 	outline-width: 1px;
 }
 
-.logo_wrapper:hover .logo,
-.logo_wrapper:focus .logo {
-	transition: all 2.5s ease-in-out;
-	stroke-dashoffset: 360;
-} 
+@media (prefers-reduced-motion: no-preference) {
 
+	.logo_wrapper:hover .logo,
+	.logo_wrapper:focus .logo {
+		transition: all 2.5s ease-in-out;
+		stroke-dashoffset: 360;
+	}
+}
