@@ -11,18 +11,22 @@ accent: "#0DC45C"
 - [ ] fix modules i broke during escalator performance
 - [ ] finish PPQ4
 - [ ] packet capture village
-- [ ] make cyberdeck out of shit i find a con
+- [ ] make cyberdeck out of shit i find at con
 - [ ] dump firmware
 - [ ] snackey
 - [ ] attempt gold bug again 
-- [ ] illuminati party
+- [ ] illuminati party - play?
 - [ ] goth con - play?
 - [ ] tinfoil hat + modular
-- [ ] scavenger hunt
-- [ ] finish writing challenge disk
-- [ ] pcap
+- [ ] scav hunt
+- [ ] finish challenge disk
 - [ ] submit a track
 - [ ] give a talk
+- [x] spy v spy finals with a team
+- [x] skreech badge
+- [x] traded up from a 3D printed coin to a laser revolver and sheriff's badge
+- [x] soldered dice
+- [x] designs on trading cards
 - [x] solve WhiskeyPirates badge puzzle with a team
 - [x] DarkNet
 - [x] fox hunt
@@ -39,5 +43,6 @@ accent: "#0DC45C"
 - [x] evacuate
 - [x] pickpocket undetected
 - [x] surprise bubbles
+- [x] mario goatse is real
 - [x] pick locks
 
